@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^17.2.3",
-    "openai": "^6.9.0",
-    "tiktoken": "^1.0.22"
+    "openai": "^6.9.0"
   }
 }
